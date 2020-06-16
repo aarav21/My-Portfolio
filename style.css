@@ -1,0 +1,26 @@
+body{
+    
+    font-family: 'VT323', monospace;
+    background-image: url(https://static1.gamespot.com/uploads/original/280/2802776/2765276-crossyroad1.jpg);
+    text-align: center;
+    font-size: 50px;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color:#27496d;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background:#00909e;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color:#142850;
+}
